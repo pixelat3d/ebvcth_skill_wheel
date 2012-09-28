@@ -2,6 +2,4 @@ TSW Skill Wheel:
 
 This was a HTML (Canvas and Javascript) version of the skill wheel for the video game The Secret World. Sadly it has since fallen to neglect, so I figured i'd put it here for giggles.
 
-It was very rough and written over a weekend, so it's more than a little bit of a mess. Instead of writing the skills to a DB like a sane person, we had an excel file in a dropbox folder shared across
-a couple different people. We would edit this spreadsheet, then one person would export it from excel (tab deliniated) and upload it to the /admin directory. From there just run import.php, and that will
-generate a new skills.js file which would contain all the updated skill definitions.
+It was very rough and written over a weekend, so it's more than a little bit of a mess. Instead of writing the skills to a DB like a sane person, we had an excel file in a dropbox folder shared across a couple different people. We would edit this spreadsheet, then one person would export it from excel (tab deliniated) and upload it to the /admin directory. From there just run import.php, and that will generate a new skills.js file which would contain all the updated skill definitions.
